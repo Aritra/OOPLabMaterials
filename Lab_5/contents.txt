@@ -1,4 +1,0 @@
-ctivity1.wsd  class3.wsd   object2.wsd    state1.wsd
-activity2.wsd  class4.wsd   sequence1.wsd  state2.wsd
-class1.wsd     class5.wsd   sequence2.wsd  use_case1.wsd
-class2.wsd     object1.wsd  sequence3.wsd  use_case2.wsd
