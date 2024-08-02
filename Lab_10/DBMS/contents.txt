@@ -1,5 +1,0 @@
-AddEditPanel.java     FDStudent.java           Major.java
-Address.java          Global.java              MapData.java
-BasicSwingFrame.java  HDStudent.java           MasterFile.dat
-BITSStudent.java      InvalidIDException.java  ObjectConverter.java
-Course.java           Main.java                ViewPanel.java
